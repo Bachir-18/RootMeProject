@@ -1,11 +1,11 @@
 # RootMeProject
 
-the report focuses on understanding and exploiting memory corruption vulnerabilities commonly found in application binaries.
+The report focuses on understanding and exploiting memory corruption vulnerabilities commonly found in application binaries.  
 
-Key highlights include:
+Key highlights include:  
 
-1. Introduction: Overview of the Root Me challenges aimed at helping users understand application vulnerabilities related to programming errors and memory corruption.
-2. Challenge Walkthroughs: The report covers 18 challenges, each focused on a different type of vulnerability:
+1. Introduction: Overview of the Root Me challenges aimed at helping users understand application vulnerabilities related to programming errors and memory corruption.  
+2. Challenge Walkthroughs: The report covers 18 challenges, each focused on a different type of vulnerability:  
         -Stack Buffer Overflows (e.g., Stack buffer overflow basic 1-6, PIE) where inputs overwrite memory buffers.  
         -Format String Bugs (challenges 9, 10, 18) which exploit improper handling of user input in printf functions.  
         -Use After Free and Double Free challenges, where incorrect memory management leads to exploitable conditions.  
