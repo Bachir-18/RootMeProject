@@ -11,7 +11,7 @@ Key highlights include:
         -Use After Free and Double Free challenges, where incorrect memory management leads to exploitable conditions.  
         -Return-Oriented Programming (ROP) and ret2dl_resolve, advanced techniques that bypass modern security protections like ASLR and non-executable stacks.  
         -Race Condition challenge which explores the timing issues in file handling.  
-3. Methodology: Each challenge follows a structured format:
+3. Methodology: Each challenge follows a structured format:  
         -Program Analysis: Review of the code or binary to identify vulnerabilities.  
         -Exploitation Techniques: Step-by-step explanation of how to leverage the vulnerability to achieve system compromise, often using tools like GDB, Python, and custom scripts.  
 4. Conclusion: Reflections on the diversity of vulnerabilities encountered and the exploitation methods used to overcome them, emphasizing the depth of technical skill required for each challenge.  
